@@ -1,0 +1,108 @@
+.header{
+  padding: 120px;
+  text-align: center;
+  
+  background-image: url('https://cdn.dribbble.com/users/211312/screenshots/6007441/artboard_3-100.jpg?compress=1&resize=400x300');
+  color: #030303;
+}
+.header h1:hover {
+    color: rgb(14, 16, 161); 
+  }
+  .header #p1:hover {
+    color: rgb(71, 10, 170); 
+  }
+h1{
+    font-size: 100px;
+}
+#p1{
+  font-size: 50px;
+}
+#p2{
+  font-size: 20px;
+}
+#p3{
+  font-size: 20px;
+}
+#p4{
+  font-size: 20px;
+}
+#p5{
+  font-size: 20px;
+}
+#p6{
+  font-size: 30px;
+}
+
+.About{
+    padding: 180px;
+    padding-top: 40px;
+    background-image: url('https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT84HPL9YWoBaIiRkkGOVHyyOKKaEMZT4MNnw&usqp=CAU');
+    color: #131413;
+  }
+.Contact{
+    padding: 180px;
+    padding-top: 40px;
+    background-image: url('https://image.freepik.com/free-vector/white-abstract-background-design_23-2148825582.jpg');
+    color: #0b0c0b;
+  }
+
+.navbar {
+    overflow: hidden; 
+    background-color: rgb(15, 13, 13); 
+
+  }
+  
+ 
+  .navbar a {
+    float: right; 
+    display: block; 
+    color: white; 
+    text-align: center; 
+    padding: 20px 30px; 
+    text-decoration: none;
+  }
+  
+ 
+  .navbar a.right {
+    float: right; 
+  }
+  
+ 
+  .navbar a:hover {
+    background-color: #ddd;
+    color: black; 
+  }
+img{
+  width: 50px;
+  padding-right: 30px;
+  padding-left: 290px;
+
+}
+#m1{
+  padding-left: 50px;
+}
+#m2{
+  padding-left: 40px;
+  width: 70px;
+  height: 60px;
+}
+#m3{
+  text-decoration: none;
+}
+.container {
+  width: 20%;
+  background-color: #ddd; 
+}
+
+.skills {
+  text-align: right; 
+  padding-top: 3px;
+  padding-bottom: 3px; 
+  color: white; 
+}
+
+.html {width: 75%; background-color: #04AA6D;}
+.css {width: 65%; background-color: #2196F3;} 
+h2{
+  text-align: center;
+}
